@@ -5,4 +5,4 @@ mx: ALT4.ASPMX.L.GOOGLE.com
 mx: ALT1.ASPMX.L.GOOGLE.com
 mx: ASPMX.L.GOOGLE.com
 mx: ALT3.ASPMX.L.GOOGLE.com
-max_age: 604800
+max_age: 1209600
